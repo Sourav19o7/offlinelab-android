@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.OfflineLabSample" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
